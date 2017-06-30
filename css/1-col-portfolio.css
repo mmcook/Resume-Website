@@ -1,0 +1,105 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #ECECEA;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+div
+{
+	text-align: justify;
+	font-family: "Myriad Pro";
+}
+
+.navbar
+{
+	background-color: #558C89;
+	border-color: #558C89;
+}
+
+.navbar-nav
+{
+	float: none;
+	vertical-align: top;
+	display: inline-block;
+}
+
+
+#bs-example-navbar-collapse-1 ul li a
+{
+	color: #ECECEA;
+}
+
+#bs-example-navbar-collapse-1 ul li a:hover,
+#bs-example-navbar-collapse-1 ul li a:focus
+{
+	color: #ECECEA;
+	background-color: #74AFAD;
+}
+
+.navbar-collapse
+{
+	text-align: center;
+}
+
+.page-header
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+h3
+{
+	text-align: center;
+}
+
+.img-responsive
+{
+/*	border-style: solid;
+	border-width: 1px;
+	border-color: #74AFAD;*/
+	box-shadow: 5px 5px 2px #558C89;
+}
+
+.btn-primary
+{
+	border-color: #D9853B;
+	background-color: #D9853B;
+	
+}
+
+.btn-primary:hover
+{
+	background-color: #b24b0a;
+	border-color: #b24b0a;
+}
+
+hr
+{
+	border-color: #74AFAD;
+}
+
+.pls
+{
+	font-size: 22px;
+	text-align: center;
+}
+
+.icon
+{
+	margin: 0px 75px 0px 75px;
+}
+
+.skills
+{
+	float: left;
+	width: 33%;
+}
